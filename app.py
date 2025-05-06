@@ -10,8 +10,8 @@ from transformers import BertTokenizer, BertForSequenceClassification
 from telethon import TelegramClient
 
 # ========== CONFIG ==========
-api_id = '23846987'
-api_hash = '24fb9b505b840bbb7dd68b35c375887f'
+api_id = 'Write you api id here'
+api_hash = 'Write your Hash id here'
 channel_username = 't.me/DalalStreetSaga'
 
 # ========== FinBERT SETUP ==========
